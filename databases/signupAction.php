@@ -1,5 +1,5 @@
 <?php
-require('./databases/listefilm.php');
+require('./databases/bdd.php');
 
 // Validation du formulaire
 if (isset($_POST['validate'])) {

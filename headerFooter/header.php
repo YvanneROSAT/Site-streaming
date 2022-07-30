@@ -1,5 +1,5 @@
 <?php
-require('./databases/listefilm.php');
+require('./databases/bdd.php');
 require('./databases/requetbdd.php');
 ?>
 <!DOCTYPE html>
